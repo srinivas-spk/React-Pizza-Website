@@ -11,7 +11,7 @@ export const productData = [
     alt: "Pizza",
     name: "Supreme Pizza",
     desc: "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
-    price: "Rs.19,99",
+    price: "Rs.299",
     button: "Add to Cart",
   },
   {
@@ -19,7 +19,7 @@ export const productData = [
     alt: "Pizza",
     name: "Hawaiian Paradise",
     desc: " Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
-    price: "Rs.16,99",
+    price: "Rs.199",
     button: "Add to Cart",
   },
   {
@@ -27,7 +27,7 @@ export const productData = [
     alt: "Pizza",
     name: "Veggie Overload",
     desc: " Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
-    price: "Rs.14,99",
+    price: "Rs.399",
     button: "Add to Cart",
   },
 ];
@@ -38,7 +38,7 @@ export const productDataTwo = [
     alt: "Donuts",
     name: "Doughlicious",
     desc: "Belgian chocolate glazed donuts covered in icing with sprinkles on top",
-    price: "Rs.9,99",
+    price: "Rs.99",
     button: "Add to Cart",
   },
   {
@@ -46,7 +46,7 @@ export const productDataTwo = [
     alt: "Ice Cream",
     name: "Caramel Wonder",
     desc: "Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick",
-    price: "Rs.12,99",
+    price: "Rs.119",
     button: "Add to Cart",
   },
   {
@@ -54,7 +54,7 @@ export const productDataTwo = [
     alt: "Brownie",
     name: "Brownie Bunch",
     desc: "Double fudge brownie squares topped with white chocolate pieces and macadamia nuts",
-    price: "Rs.9,99",
+    price: "Rs.79",
     button: "Add to Cart",
   },
 ];
